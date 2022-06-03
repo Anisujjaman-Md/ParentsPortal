@@ -1,0 +1,8 @@
+.half-width-form-control {
+    display: inline-block;
+    width: calc(50% - 2px);
+    box-sizing: border-box;
+    margin-top: 5px;
+    float: none;
+    transform: translate(50%);
+}
